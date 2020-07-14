@@ -1,0 +1,44 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 
+    "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#header-div {
+    background-color: #eeeeee;
+}
+
+#title {
+    padding-top: 5rem;
+    font-size: 4rem;
+}
+
+#header-paragh {
+    padding-bottom: 2rem;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    font-size: 1.7rem;
+}
+#second-p {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-size: 2rem;
+}
+#first-li {
+    padding-top: 4rem;
+}
